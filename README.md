@@ -1,20 +1,16 @@
-# UK Train Ride Analysis Project 🚆
+# UK Train Ride Analysis Project
 
-[![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?logo=powerbi)](https://github.com/AREBU5/UK_Train_Ride)
-[![Databricks](https://img.shields.io/badge/Databricks-Notebooks-red?logo=databricks)](https://github.com/AREBU5/UK_Train_Ride/tree/main/Notebooks)
-[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-Databricks-orange)](https://databricks.com/)
 
-## 📊 Project Status Update
-**🚧 Currently Working On:** A comprehensive Power BI dashboard report is currently under development and will be uploaded to this repository at a later date. The dashboard will provide interactive visualizations and executive-level insights based on the analysis performed in the notebooks.
+## Project Status Update
+** Currently Working On:** A comprehensive Power BI dashboard report is currently under development and will be uploaded to this repository at a later date. The dashboard will provide interactive visualizations and executive-level insights based on the analysis performed in the notebooks.
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 This project provides an in-depth analysis of UK railway operations, focusing on passenger behavior, operational performance, route efficiency, and revenue generation. Using real-world train ride data, the analysis uncovers actionable insights to improve service quality, optimize routes, and enhance customer satisfaction.
 
-### 🎯 Key Objectives
+###  Key Objectives
 - Analyze passenger travel patterns and peak usage times
 - Evaluate operational performance (delays, cancellations, on-time arrivals)
 - Identify high-performing and underperforming routes
@@ -23,7 +19,7 @@ This project provides an in-depth analysis of UK railway operations, focusing on
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 UK_Train_Ride/
@@ -43,9 +39,9 @@ UK_Train_Ride/
 
 ---
 
-## 📊 Data Source
+##  Data Source
 
-**Database:** `uk_train_ride.train_rise.railway`
+** Maven Anaytics: https://mavenanalytics.io/data-playground/uk-train-rides
 
 The dataset contains comprehensive information about UK train journeys including:
 - **Journey Details:** Date, departure/arrival stations, routes
@@ -62,9 +58,9 @@ Prior to analysis, extensive data cleaning was performed including:
 
 ---
 
-## 📓 Notebook Descriptions
+##  Notebook Descriptions
 
-### 1. 🧑‍🤝‍🧑 Passenger Rail Usage
+### 1. Passenger Rail Usage
 **Focus:** Understanding passenger behavior and travel patterns
 
 **Key Analyses:**
@@ -88,7 +84,7 @@ Prior to analysis, extensive data cleaning was performed including:
 
 ---
 
-### 2. ⚡ Rail Performance
+### 2. Rail Performance
 **Focus:** Operational efficiency and service reliability
 
 **Key Analyses:**
@@ -111,7 +107,7 @@ Prior to analysis, extensive data cleaning was performed including:
 
 ---
 
-### 3. 🛤️ Route Analysis
+### 3. Route Analysis
 **Focus:** Route-level performance and efficiency
 
 **Key Analyses:**
@@ -136,7 +132,7 @@ Prior to analysis, extensive data cleaning was performed including:
 
 ---
 
-### 4. 💰 Sales Performance
+### 4. Sales Performance
 **Focus:** Revenue generation and financial health
 
 **Key Analyses:**
@@ -161,7 +157,7 @@ Prior to analysis, extensive data cleaning was performed including:
 
 ---
 
-## 🔑 Key Findings & Recommendations
+##  Key Findings & Recommendations
 
 ### Operational Improvements
 1. **Weather Preparedness:** Implement proactive weather monitoring and contingency planning
@@ -183,7 +179,7 @@ Prior to analysis, extensive data cleaning was performed including:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Databricks:** Cloud-based data engineering and analytics platform
 - **Apache Spark:** Distributed data processing
@@ -195,84 +191,9 @@ Prior to analysis, extensive data cleaning was performed including:
 - **Power BI:** (In Progress) Interactive dashboard creation
 - **Git/GitHub:** Version control and collaboration
 
----
+##  Contact
 
-## 🚀 Getting Started
+For questions, suggestions, or collaboration opportunities, please open an issue in this repository or reach out via Email: danielarebu@outlook.com .
 
-### Prerequisites
-- Databricks workspace access
-- Access to `uk_train_ride.train_rise.railway` database
-- Python 3.x
-- Databricks Runtime (recommended: 13.x or higher)
-
-### Running the Notebooks
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/AREBU5/UK_Train_Ride.git
-   ```
-
-2. **Import notebooks into Databricks:**
-   - Navigate to your Databricks workspace
-   - Import the notebooks from the `/Notebooks` folder
-   - Ensure you have the necessary permissions to access the data source
-
-3. **Execute notebooks:**
-   - Run notebooks in any order (each is independent)
-   - Ensure compute resources are attached
-   - All visualizations will render inline
-
-4. **Review outputs:**
-   - SQL queries return tabular results
-   - Python cells generate matplotlib visualizations
-   - All charts are professionally formatted with consistent styling
-
----
-
-## 📈 Future Work
-
-- [ ] Complete and upload Power BI dashboard
-- [ ] Implement predictive models for delay forecasting
-- [ ] Add real-time monitoring capabilities
-- [ ] Expand analysis to include year-over-year comparisons
-- [ ] Develop automated reporting pipeline
-- [ ] Create customer segmentation analysis
-- [ ] Build recommendation system for route optimization
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Daniel Arebu**
-
-- GitHub: [@AREBU5](https://github.com/AREBU5)
-- Project Link: [UK_Train_Ride](https://github.com/AREBU5/UK_Train_Ride)
-
----
-
-## 🙏 Acknowledgments
-
-- UK Railway data providers
-- Databricks platform for analytics infrastructure
-- Open-source community for visualization libraries
-
----
-
-## 📧 Contact
-
-For questions, suggestions, or collaboration opportunities, please open an issue in this repository or reach out via GitHub.
-
----
-
-**Last Updated:** August 2026  
-**Version:** 1.0.0
-
----
 
 ⭐ If you found this project helpful, please consider giving it a star!

@@ -1,9 +1,5 @@
 # UK Train Ride Analysis Project
 
-[![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?logo=powerbi)](https://github.com/AREBU5/UK_Train_Ride)
-[![Databricks](https://img.shields.io/badge/Databricks-Notebooks-red?logo=databricks)](https://github.com/AREBU5/UK_Train_Ride/tree/main/Notebooks)
-[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-Databricks-orange)](https://databricks.com/)
 
 ## Project Status Update
 ** Currently Working On:** A comprehensive Power BI dashboard report is currently under development and will be uploaded to this repository at a later date. The dashboard will provide interactive visualizations and executive-level insights based on the analysis performed in the notebooks.

@@ -62,7 +62,7 @@ Prior to analysis, extensive data cleaning was performed including:
 
 ---
 
-## 📓 Notebook Descriptions
+##  Notebook Descriptions
 
 ### 1. Passenger Rail Usage
 **Focus:** Understanding passenger behavior and travel patterns
